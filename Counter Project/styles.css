@@ -1,0 +1,16 @@
+body {
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+button{
+  margin: 20px;
+  border: 3px solid;
+  border-color: black;
+}
+h1{
+  font-weight: bolder;
+}
+.col-md-6{
+  margin-top: 200px;
+  padding: 50px;
+  border: 7px solid black;
+}

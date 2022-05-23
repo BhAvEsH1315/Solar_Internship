@@ -1,0 +1,42 @@
+body {
+  background-image: linear-gradient(
+    to left,
+    #dbdcd7 0%,
+    #dddcd7 2%,
+    #e2c9cc 7%,
+    #e7627d 46%,
+    #b8235a 59%,
+    #801357 71%,
+    #3d1635 84%,
+    #1c1a27 100%
+  );
+}
+
+h1 {
+  background-image: linear-gradient(
+    to right,
+    #dbdcd7 0%,
+    #dddcd7 0%,
+    #e2c9cc 8%,
+    #e7627d 46%,
+    #b8235a 59%,
+    #801357 71%,
+    #3d1635 84%,
+    #1c1a27 100%
+  );
+}
+
+.col-md-7 {
+  margin-top: 150px;
+  background-image: linear-gradient(to right, #a3bded 70%, #6991c7 100%);
+}
+
+button {
+  margin-top: 20px;
+}
+input,
+lable {
+  margin: 15px;
+  font-size: 20px;
+  font-weight: 600;
+}
